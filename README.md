@@ -1,4 +1,8 @@
+<h1 align="center"> Hi 👋, I'm Gourav Kamboj</h1>
+
 ### Here is what I'm working on! 👋
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamboj652&label=Profile%20views&color=0e75b6&style=flat" alt="kamboj652" /> </p>
 
 Here are some ideas to get you started:
 
